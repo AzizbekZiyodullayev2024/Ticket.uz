@@ -1,5 +1,7 @@
 <?php
 
+// birlashtirish
+
 $array1 = ['red', 'blue'];
 $array2 = ['green', 'yellow'];
 

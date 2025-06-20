@@ -1,6 +1,7 @@
 <?php
 
 $fruits = ['banana', 'apple', 'orange', 'grape'];
+
 sort($fruits); // Oddiy saralash
 
 print_r($fruits);
