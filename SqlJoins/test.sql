@@ -2,7 +2,6 @@ CREATE TABLE users (
     user_id INT PRIMARY KEY,
     name VARCHAR(50)
 );
-
 CREATE TABLE orders (
     order_id INT PRIMARY KEY,
     user_id INT,
